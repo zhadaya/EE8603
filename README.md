@@ -6,4 +6,4 @@ In this study employing PyCaret, a red wine classification task was conducted us
 
 ## Video Link
 
-[[Link to Project Video]](https://youtu.be/cIhHgSLQYo0)https://youtu.be/cIhHgSLQYo0
+[[Link to Project Video]](https://youtu.be/cIhHgSLQYo0)
